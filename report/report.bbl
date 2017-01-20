@@ -1,0 +1,211 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Marr(1982)]{Marr1982}
+David Marr.
+\newblock \emph{Vision: A Computational Investigation into the Human
+  Representation and Processing of Visual Information}.
+\newblock The MIT Press, 1982.
+
+\bibitem[Adrian and Zotterman(1926)]{Adrian1926}
+Edgar~Douglas Adrian and Yngve Zotterman.
+\newblock The impulses produced by sensory nerve-endings: Part ii. the response
+  of a single end-organ.
+\newblock \emph{The Journal of physiology}, 61\penalty0 (2):\penalty0 151--171,
+  1926.
+
+\bibitem[Ernst and Banks(2002)]{Ernst2002}
+Marc~O Ernst and Martin~S Banks.
+\newblock Humans integrate visual and haptic information in a statistically
+  optimal fashion.
+\newblock \emph{Nature}, 415\penalty0 (6870):\penalty0 429--433, 2002.
+
+\bibitem[Behrens et~al.(2007)Behrens, Woolrich, Walton, and
+  Rushworth]{Behrens2007}
+Timothy~EJ Behrens, Mark~W Woolrich, Mark~E Walton, and Matthew~FS Rushworth.
+\newblock Learning the value of information in an uncertain world.
+\newblock \emph{Nature neuroscience}, 10\penalty0 (9):\penalty0 1214--1221,
+  2007.
+
+\bibitem[Drugowitsch et~al.(2014)Drugowitsch, DeAngelis, Klier, Angelaki, and
+  Pouget]{Drugowitsch2014}
+Jan Drugowitsch, Gregory~C DeAngelis, Eliana~M Klier, Dora~E Angelaki, and
+  Alexandre Pouget.
+\newblock Optimal multisensory decision-making in a reaction-time task.
+\newblock \emph{eLife}, 3:\penalty0 e03005, 2014.
+\newblock ISSN 2050-084X.
+\newblock \doi{10.7554/eLife.03005}.
+\newblock URL \url{https://dx.doi.org/10.7554/eLife.03005}.
+
+\bibitem[Attneave(1954)]{Attneave1954}
+Fred Attneave.
+\newblock Some informational aspects of visual perception.
+\newblock \emph{Psychological review}, 61\penalty0 (3):\penalty0 183, 1954.
+
+\bibitem[Barlow(1961)]{Barlow1961}
+H.~B. Barlow.
+\newblock \emph{Possible principles underlying the transformations of sensory
+  messages}, pages 217--234.
+\newblock MIT Press, Cambridge, MA, 1961.
+
+\bibitem[Shannon(1948)]{Shannon1948}
+C.~E. Shannon.
+\newblock A mathematical theory of communication.
+\newblock \emph{Bell System Technical Journal}, 27\penalty0 (3):\penalty0
+  379--423, 1948.
+\newblock ISSN 1538-7305.
+\newblock \doi{10.1002/j.1538-7305.1948.tb01338.x}.
+\newblock URL \url{http://dx.doi.org/10.1002/j.1538-7305.1948.tb01338.x}.
+
+\bibitem[Olshausen and Field(1996)]{Olshausen1996}
+Bruno~A Olshausen and David~J Field.
+\newblock Emergence of simple-cell receptive field properties by learning a
+  sparse code for natural images.
+\newblock \emph{Nature}, 381:\penalty0 13, 1996.
+
+\bibitem[Bell and Sejnowski(1997)]{Bell1997}
+Anthony~J Bell and Terrence~J Sejnowski.
+\newblock The ``independent components'' of natural scenes are edge filters.
+\newblock \emph{Vision research}, 37\penalty0 (23):\penalty0 3327--3338, 1997.
+
+\bibitem[Atick and Redlich(1992)]{Atick1992}
+Joseph~J Atick and A~Norman Redlich.
+\newblock What does the retina know about natural scenes?
+\newblock \emph{Neural computation}, 4\penalty0 (2):\penalty0 196--210, 1992.
+
+\bibitem[Pitkow and Meister(2012)]{Pitkow2012}
+Xaq Pitkow and Markus Meister.
+\newblock Decorrelation and efficient coding by retinal ganglion cells.
+\newblock \emph{Nature neuroscience}, 15\penalty0 (4):\penalty0 628--635, 2012.
+
+\bibitem[Srinivasan et~al.(1982)Srinivasan, Laughlin, and Dubs]{Srinivasan1982}
+M.~V. Srinivasan, S.~B. Laughlin, and A.~Dubs.
+\newblock Predictive coding: A fresh view of inhibition in the retina.
+\newblock \emph{Proceedings of the Royal Society of London B: Biological
+  Sciences}, 216\penalty0 (1205):\penalty0 427--459, 1982.
+\newblock ISSN 0080-4649.
+\newblock \doi{10.1098/rspb.1982.0085}.
+\newblock URL
+  \url{http://rspb.royalsocietypublishing.org/content/216/1205/427}.
+
+\bibitem[Van~Hateren(1992)]{VanHateren1992}
+JH~Van~Hateren.
+\newblock Real and optimal neural images in early vision.
+\newblock \emph{Nature}, 1992.
+
+\bibitem[Smith and Lewicki(2006)]{Smith2006}
+Evan~C Smith and Michael~S Lewicki.
+\newblock Efficient auditory coding.
+\newblock \emph{Nature}, 439\penalty0 (7079):\penalty0 978--982, 2006.
+
+\bibitem[Bale et~al.(2015)Bale, Ince, Santagata, and Petersen]{Bale2015}
+Michael~R Bale, Robin~AA Ince, Greta Santagata, and Rasmus~S Petersen.
+\newblock Efficient population coding of naturalistic whisker motion in the
+  ventro-posterior medial thalamus based on precise spike timing.
+\newblock \emph{Frontiers in neural circuits}, 9, 2015.
+
+\bibitem[Brenner et~al.(2000{\natexlab{a}})Brenner, Bialek, and
+  Van~Steveninck]{Brenner2000}
+Naama Brenner, William Bialek, and Rob de~Ruyter Van~Steveninck.
+\newblock Adaptive rescaling maximizes information transmission.
+\newblock \emph{Neuron}, 26\penalty0 (3):\penalty0 695--702,
+  2000{\natexlab{a}}.
+
+\bibitem[Brenner et~al.(2000{\natexlab{b}})Brenner, Strong, Koberle, Bialek,
+  and Van~Steveninck]{Brenner2000b}
+Naama Brenner, Steven~P Strong, Roland Koberle, William Bialek, and Rob R
+  De~Ruyter Van~Steveninck.
+\newblock Synergy in a neural code.
+\newblock \emph{Neural computation}, 12\penalty0 (7):\penalty0 1531--1552,
+  2000{\natexlab{b}}.
+
+\bibitem[Salinas and Sejnowski(2001)]{Salinas2001}
+Emilio Salinas and Terrence~J Sejnowski.
+\newblock Correlated neuronal activity and the flow of neural information.
+\newblock \emph{Nature reviews neuroscience}, 2\penalty0 (8):\penalty0
+  539--550, 2001.
+
+\bibitem[Averbeck et~al.(2006)Averbeck, Latham, and Pouget]{Averbeck2006}
+Bruno~B Averbeck, Peter~E Latham, and Alexandre Pouget.
+\newblock Neural correlations, population coding and computation.
+\newblock \emph{Nature Reviews Neuroscience}, 7\penalty0 (5):\penalty0
+  358--366, 2006.
+
+\bibitem[Hubel and Wiesel(1962)]{Hubel1962}
+David~H Hubel and Torsten~N Wiesel.
+\newblock Receptive fields, binocular interaction and functional architecture
+  in the cat's visual cortex.
+\newblock \emph{The Journal of physiology}, 160\penalty0 (1):\penalty0
+  106--154, 1962.
+
+\bibitem[Georgopoulos et~al.(1986)Georgopoulos, Schwartz, Kettner,
+  et~al.]{Georgopoulos1986}
+Apostolos~P Georgopoulos, Andrew~B Schwartz, Ronald~E Kettner, et~al.
+\newblock Neuronal population coding of movement direction.
+\newblock \emph{Science}, 233\penalty0 (4771):\penalty0 1416--1419, 1986.
+
+\bibitem[Mainen and Sejnowski(1995)]{Mainen1995}
+Zachary~F Mainen and Terrence~J Sejnowski.
+\newblock Reliability of spike timing in neocortical neurons.
+\newblock \emph{Science}, 268\penalty0 (5216):\penalty0 1503, 1995.
+
+\bibitem[Shadlen and Newsome(1998)]{Shadlen1998}
+Michael~N Shadlen and William~T Newsome.
+\newblock The variable discharge of cortical neurons: implications for
+  connectivity, computation, and information coding.
+\newblock \emph{The Journal of neuroscience}, 18\penalty0 (10):\penalty0
+  3870--3896, 1998.
+
+\bibitem[van Vreeswijk and Sompolinsky(1996)]{VanVreeswijk1996}
+Carl van Vreeswijk and Haim Sompolinsky.
+\newblock Chaos in neuronal networks with balanced excitatory and inhibitory
+  activity.
+\newblock \emph{Science}, 274\penalty0 (5293):\penalty0 1724, 1996.
+
+\bibitem[Renart et~al.(2010)Renart, De~La~Rocha, Bartho, Hollender, Parga,
+  Reyes, and Harris]{Renart2010}
+Alfonso Renart, Jaime De~La~Rocha, Peter Bartho, Liad Hollender, N{\'e}stor
+  Parga, Alex Reyes, and Kenneth~D Harris.
+\newblock The asynchronous state in cortical circuits.
+\newblock \emph{science}, 327\penalty0 (5965):\penalty0 587--590, 2010.
+
+\bibitem[Den{\`e}ve and Machens(2016)]{Deneve2016}
+Sophie Den{\`e}ve and Christian~K Machens.
+\newblock Efficient codes and balanced networks.
+\newblock \emph{Nature neuroscience}, 19\penalty0 (3):\penalty0 375--382, 2016.
+
+\bibitem[Boerlin et~al.(2013)Boerlin, Machens, and Den{\`e}ve]{Boerlin2013}
+Martin Boerlin, Christian~K Machens, and Sophie Den{\`e}ve.
+\newblock Predictive coding of dynamical variables in balanced spiking
+  networks.
+\newblock \emph{PLoS Comput Biol}, 9\penalty0 (11):\penalty0 e1003258, 2013.
+
+\bibitem[Barrett et~al.(2013)Barrett, Den{\`e}ve, and Machens]{Barrett2013}
+David~G Barrett, Sophie Den{\`e}ve, and Christian~K Machens.
+\newblock Firing rate predictions in optimal balanced networks.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  1538--1546, 2013.
+
+\bibitem[Barrett et~al.(2015)Barrett, Deneve, and Machens]{Barrett2015}
+David Barrett, Sophie Deneve, and Christian Machens.
+\newblock Optimal compensation for neuron death.
+\newblock \emph{bioRxiv (preprint)}, 2015.
+
+\bibitem[Brendel et~al.(2016)Brendel, Bourdoukan, Vertechi, Barrett, Machens,
+  and Den\`{e}ve]{Brendel2016}
+Wieland Brendel, Ralph Bourdoukan, Pietro Vertechi, David G.~T. Barrett,
+  Christian~K. Machens, and Sophie Den\`{e}ve.
+\newblock Optimal spike-timing-dependent plasticity for maximizing
+  representational efficiency.
+\newblock submitted, 2016.
+
+\bibitem[Stein(1967)]{Stein1967}
+Richard~B Stein.
+\newblock Some models of neuronal variability.
+\newblock \emph{Biophysical journal}, 7\penalty0 (1):\penalty0 37, 1967.
+
+\end{thebibliography}

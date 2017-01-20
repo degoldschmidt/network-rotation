@@ -1,0 +1,14 @@
+\select@language {english}
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {II}Derivations}{2}{section.2}
+\contentsline {subsection}{\numberline {i}Assumptions}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {ii}Network dynamics}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {iii}Geometry of a spike}{3}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {iii.1}Examples in two dimensions}{4}{subsubsection.2.3.1}
+\contentsline {paragraph}{Example 1: $N=3$ (2-simplex)\\}{4}{paragraph*.2}
+\contentsline {paragraph}{Example 2: $N > 3$\\}{5}{paragraph*.4}
+\contentsline {subsubsection}{\numberline {iii.2}Suboptimal solutions}{5}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {iv}Learning of optimal weights}{5}{subsection.2.4}
+\contentsline {section}{\numberline {III}Simulations}{5}{section.3}
+\contentsline {subsection}{\numberline {i}Robustness to perturbations}{5}{subsection.3.1}
+\contentsline {section}{\numberline {IV}Discussion}{5}{section.4}
